@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sourab Shukla</h1>
-<h3 align="center">Aspiring Full-Stack  Developer | Passionate about Crafting High-Quality Software Solutions  | Frontend Enthusiast | Seeking Opportunities to Learn and Grow</h3>
+<h3 align="center">Full-Stack  Developer | Passionate about Crafting High-Quality Software Solutions  | Frontend Enthusiast | Seeking Opportunities to Learn and Grow</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabshukla&label=Profile%20views&color=0e75b6&style=flat" alt="sourabshukla" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sourabshukla](https://github.com/Sourabshukla)
 
-- 💬 Ask me about **Java ,JDBC ,Frontend ,Sql, .NET**
+- 💬 Ask me about **C#,Asp.Net,.Net Core,Java ,JDBC ,Frontend ,Sql**
 
 - 📫 How to reach me **sourabshukla2001@gmail.com**
 
