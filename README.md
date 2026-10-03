@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sourabshukla](https://github.com/Sourabshukla)
 
-- 💬 Ask me about **C#,Asp.Net,.Net Core,Java ,JDBC ,Frontend ,Sql**
+- 💬 Ask me about **C#,Asp.Net,.Net Core,Frontend ,Sql**
 
-- 📫 How to reach me **sourabshukla2001@gmail.com**
+- 📫 How to reach me **sourabshukla22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
